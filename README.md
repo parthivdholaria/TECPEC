@@ -1,5 +1,7 @@
 # Architecture
 
+In the realm of Natural Language Processing (NLP), "Robert architecture" typically doesn't refer to a specific individual or architectural style. However, if we were to interpret it metaphorically, we could relate it to certain NLP frameworks or models named after individuals, such as BERT (Bidirectional Encoder Representations from Transformers) or GPT (Generative Pre-trained Transformer). These architectures represent advancements in NLP technology, leveraging deep learning and transformer-based models to understand and generate human-like text.
+
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/parthivdholaria/NLP-Project-24/blob/Shreyas/ERC/ERC_Utterance_Level/BERT/Architecture.jpg" height="500" />
 </div>
